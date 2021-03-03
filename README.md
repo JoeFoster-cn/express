@@ -17,5 +17,8 @@
 - create lib, public and views folder at top level
   - create index.hbs, about.hbs and 404.hbs within views folder
   - create layouts and partials folder within views folder
-    - create 
+    - create layout.hbs within layouts folder
+    - create navbar.hbs within partials folder
+  - create main.css within public folder
+  - create getplaceholder.js within lib folder
   
