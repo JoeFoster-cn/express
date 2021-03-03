@@ -1,4 +1,4 @@
-creating an express template
+# creating an express template
 
 - create directory
 - npm init -y
@@ -10,3 +10,12 @@ creating an express template
 - git init
 - add a .gitignore file
 - go to gitignore.io in browser and copy the relevant data
+
+# folder structure
+
+- create index.js file at top level
+- create lib, public and views folder at top level
+  - create index.hbs, about.hbs and 404.hbs within views folder
+  - create layouts and partials folder within views folder
+    - create 
+  
